@@ -54,7 +54,7 @@ class App() :
         self.GLabel_231["font"] = self.ft
         self.GLabel_231["fg"] = "#333333"
         self.GLabel_231["justify"] = "center"
-        self.GLabel_231["text"] = "This work belongs to Yassine AIT MALEK"
+        self.GLabel_231["text"] = "This work belongs to YAM/KB"
         self.GLabel_231.place(x=350,y=530,width=350,height=66)
 
         self.var = StringVar()
