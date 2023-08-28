@@ -1,5 +1,3 @@
-# Yassine ATMK
-
 # needed libraries
 
 # pip intall bokeh
